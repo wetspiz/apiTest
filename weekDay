@@ -1,0 +1,8 @@
+{
+  "weeek": [
+    { "id": 1, "day": "All" },
+    { "id": 2, "day": "Lunes" },
+    { "id": 3, "day": "Martes" },
+    { "id": 4, "day": "Miercoles" },
+  ]
+}
